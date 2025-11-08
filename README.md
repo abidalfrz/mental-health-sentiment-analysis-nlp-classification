@@ -29,7 +29,7 @@ The dataset contains the following features:
 ## 📂 Project Structure
 
 ```bash
-mental-health-status-classification/
+mental-health-sentiment-analysis-nlp-classification/
 ├── data/
 │   ├── raw/                        # Original collected statements dataset
 │   │   ├── Combined Data.csv
